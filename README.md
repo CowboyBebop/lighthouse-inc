@@ -1,3 +1,8 @@
+![Users grid view](https://user-images.githubusercontent.com/33606633/115958004-2e4f3480-a50e-11eb-997a-45d8b1aa527d.png)
+![Keyword list filtered](https://user-images.githubusercontent.com/33606633/115958005-2f806180-a50e-11eb-9b85-7b8ab727cc29.png)
+![Keyword distribution pie chart](https://user-images.githubusercontent.com/33606633/115958006-3018f800-a50e-11eb-9c4f-ad409eb057c8.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
